@@ -1,0 +1,5 @@
+com\uce\microservicedeletecategory\controller\microservicedeleteController.class
+com\uce\microservicedeletecategory\docs\SwaggerConfig.class
+com\uce\microservicedeletecategory\model\Category.class
+com\uce\microservicedeletecategory\MicroserviceDeleteCategoryApplication.class
+com\uce\microservicedeletecategory\repository\microservicedeletecategoryRepository.class
