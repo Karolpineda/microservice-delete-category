@@ -17,7 +17,7 @@ COPY src ./src
 RUN mvn clean package -DskipTests
 
 # Exponer el puerto en el que la aplicación estará corriendo
-EXPOSE 8086
+EXPOSE 8088
 
 # Ejecutar el JAR
 CMD ["java", "-jar", "target/microservice-create-category-0.0.1-SNAPSHOT.jar"]
