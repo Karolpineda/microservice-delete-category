@@ -56,3 +56,4 @@ The application will run at: http://localhost:8088
 Endpoint: DELETE /api/categories/{Id}
 
 This endpoint allows you to delete a category in the database using the provided data.
+
