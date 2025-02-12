@@ -40,7 +40,7 @@ git clone https://github.com/Karolpineda/microservice-delete-category.git
 ### 2. Build the Docker Image
 In the project directory, run the following command to build the Docker image:
 ```bash
-docker build -t <your-username>/microservice-create-product
+docker build -t <your-username>/microservice-delete-category
 
 ```
 
